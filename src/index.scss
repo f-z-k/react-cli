@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrap-layOut {
+  .wrap-menu {
+    float: left;
+    width: 256px;
+    min-height: 100vh;
+    background-color: #dfecfa;
+  }
+  .content {
+    margin-left: 256px;
+    padding: 20px;
+  }
+}
